@@ -1,0 +1,104 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    padding: 40px;
+}
+
+nav {
+    margin-top: 7px;
+    margin-bottom: 70px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+    color: #8D81FF;
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 50px;
+}
+
+#active {
+    color: #4E6FAE;
+}
+
+article {
+    margin-bottom: 90px;
+}
+
+.day {
+    width: 27px;
+    height: 27px;
+    background-color: #5012D5;
+    color: #84FF81;
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+.month {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #8D81FF;
+}
+
+h2 {
+    margin-bottom: 25px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #4E6FAE;
+}
+
+.texts {
+    width: 800px;
+    display: inline-block;
+}
+
+.image {
+    vertical-align: top;
+    margin-right: 65px;
+    margin-bottom: 30px;
+}
+
+.text {
+    margin-bottom: 10px;
+    color: #4E6FAE;
+    font-weight: 400;
+}
+
+.class2 {
+    margin-bottom: 0;
+}
+
+ol {
+    margin-left: 16px;
+    color: #4E6FAE;
+}
+
+#line {
+    width: 2px;
+    height: 50px;
+    display: inline-block;
+    margin: 0 40px 0 40px;
+    background-color: black;
+}
